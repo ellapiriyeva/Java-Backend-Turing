@@ -1,0 +1,6 @@
+package AHappyFamilyApp03;
+
+enum DayOfWeek {
+
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+}
